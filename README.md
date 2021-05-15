@@ -4,7 +4,9 @@
 
 ## What is it?
 
+Simple helpers for `IEnumerable<T>` and `IAsyncEnumerable<T>`
 
+- **Batch helper** - pack the given enumerable in batches with a specified maximum batch size
 
 ## Documentation
 
