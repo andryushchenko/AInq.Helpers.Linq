@@ -12,8 +12,9 @@
 		<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
 		<PackageProjectUrl>https://github.com/andryushchenko/AInq.Helpers.Linq</PackageProjectUrl>
 		<Version>1.1.0-preview.2</Version>
-		<LangVersion>preview</LangVersion>
+		<LangVersion>latest</LangVersion>
 		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
 		<PackageTags>AInq;Linq;Helper</PackageTags>
 		<Description>Helpers for Linq: IEnumerable and IAsyncEnumerable Batch</Description>

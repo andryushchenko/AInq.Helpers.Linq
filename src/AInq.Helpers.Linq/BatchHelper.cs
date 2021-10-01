@@ -12,11 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using System;
-using System.Collections.Generic;
-
-namespace AInq.Helpers.Linq
-{
+namespace AInq.Helpers.Linq;
 
 /// <summary>  Enumerable batch extension </summary>
 public static class BatchHelper
@@ -66,6 +62,4 @@ public static class BatchHelper
             yield return enumerator.Current;
         }
     }
-}
-
 }
