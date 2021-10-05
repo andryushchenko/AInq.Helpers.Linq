@@ -2,6 +2,14 @@
 
 [![Nuget](https://img.shields.io/nuget/v/AInq.Helpers.Linq)](https://www.nuget.org/packages/AInq.Helpers.Linq/) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/andryushchenko/AInq.Helpers.Linq)](https://github.com/andryushchenko/AInq.Helpers.Linq/releases) [![netstandard 2.0](https://img.shields.io/badge/netstandard-2.0-blue.svg)](https://docs.microsoft.com/en-us/dotnet/standard/net-standard) [![netstandard 2.1](https://img.shields.io/badge/netstandard-2.1-blue.svg)](https://docs.microsoft.com/en-us/dotnet/standard/net-standard) [![net 5.0](https://img.shields.io/badge/net-5.0-blue.svg)](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet) [![GitHub](https://img.shields.io/github/license/andryushchenko/AInq.Helpers.Linq)](LICENSE)
 
+## ANNOUNCEMENT
+
+**This repo is now archived**
+
+All work moved to [AInq.Helpers](https://github.com/andryushchenko/AInq.Helpers) 
+
+---
+
 ## What is it?
 
 Simple helpers for `IEnumerable<T>` and `IAsyncEnumerable<T>`
